@@ -1,12 +1,14 @@
 # PMP 项目管理课程资料库
 
-PMP（Project Management Professional）认证考试备考及项目管理实战技能课程资料集合。涵盖 PMBOK 第七版体系知识、敏捷方法论、以及大量实战场景课件。
+> PMP（Project Management Professional）认证备考 + 项目管理实战技能，覆盖 PMBOK 第七版、敏捷方法论及全生命周期实战课件。
 
-## Knowledge Available
+## 数据索引
 
-- `_cache/` — 已索引 46 个文件（PDF/PPTX/DOCX → Markdown），包含全部课件和讲义的文本内容
-- `_topics/` — （空，AI 可在此写入分析总结）
-- `_requirements/` — （已初始化，使用 `fcontext req` 命令管理）
+| 目录 | 状态 | 说明 |
+|------|------|------|
+| `_cache/` | ✅ 46 个文件已索引 | PDF/PPTX/DOCX → Markdown 全文 |
+| `_topics/` | 待补充 | AI 分析总结 |
+| `_requirements/` | 已初始化 | `fcontext req` 管理 |
 
 ## 课程内容结构
 
